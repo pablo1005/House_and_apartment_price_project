@@ -1,0 +1,23 @@
+[33mcommit a5ecee141786e5250121d672758025ee50f9548e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Pedro Pablo Alvarez <125165982+pablo1005@users.noreply.github.com>
+Date:   Fri Jul 19 16:26:13 2024 -0600
+
+    Set houses and apartments price range and a function ("get_page_url") was created to set URL to be parsed.
+
+[33mcommit 293e654581d70d6a1ffb3d4edae34d8b9635c838[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pedro Pablo Alvarez <125165982+pablo1005@users.noreply.github.com>
+Date:   Tue Jul 16 20:45:26 2024 -0600
+
+    Created an automatically controlled Firefox web browser and browse the specific website (www.encuentra24.com)
+
+[33mcommit e93aa22ba97781861d0b9d4fbbffc694ab5480de[m
+Author: Pedro Pablo Alvarez <125165982+pablo1005@users.noreply.github.com>
+Date:   Tue Jul 16 19:58:02 2024 -0600
+
+    My first commit (Import Libraries)
+
+[33mcommit a6096b7a61a70d4aa476569efbc8c89eed1c9e87[m
+Author: pablo1005 <125165982+pablo1005@users.noreply.github.com>
+Date:   Tue Jul 16 18:10:17 2024 -0600
+
+    Initial commit

@@ -1,0 +1,15 @@
+# Excluir el entorno virtual de Python
+.venv/
+
+# Excluir archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Excluir los archivos de Python compilados
+*.py[cod]
+
+# Excluir las carpetas de caché
+__pycache__/
+
+# Excluir archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
