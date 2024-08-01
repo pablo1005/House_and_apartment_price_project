@@ -13,3 +13,6 @@ __pycache__/
 
 # Excluir archivos de configuración de Jupyter Notebook
 .ipynb_checkpoints/
+
+# Ignorar archivos temporales de Excel
+~$*.xlsx
