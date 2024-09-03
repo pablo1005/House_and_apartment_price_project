@@ -30,5 +30,20 @@ This project analyzes real estate prices in Guatemala to understand market trend
 
 To reproduce the analysis, ensure you have the required Python libraries installed. Use the following command to install dependencies:
 
+## Power BI Dashboard
+
+A Power BI dashboard was created to provide an interactive visualization of the real estate analysis. Key components include:
+
+- **Slicers:** To filter data by property type, municipality, and zone.
+- **Visualizations:**
+  - Stacked bar chart displaying the average price by type.
+  - Donut chart showing the total count of property types (houses and apartments).
+  - Combined column and line chart illustrating average price by municipality and price per square meter.
+  - Area chart depicting average price by zone.
+  - Gauges displaying features like square meters, rooms, parking, and baths.
+
+The dashboard enhances data accessibility and offers dynamic insights for users to explore various dimensions of the real estate market.
+
 ```bash
 pip install -r requirements.txt
+
