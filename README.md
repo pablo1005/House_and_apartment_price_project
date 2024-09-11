@@ -30,6 +30,9 @@ This project analyzes real estate prices in Guatemala to understand market trend
 
 To reproduce the analysis, ensure you have the required Python libraries installed. Use the following command to install dependencies:
 
+### Browser Setup for Selenium
+Ensure you have Firefox installed with the appropriate geckodriver for Selenium to work correctly. You can download geckodriver from [geckodriver releases](https://github.com/mozilla/geckodriver/releases).
+
 ## Power BI Dashboard
 
 A Power BI dashboard was created to provide an interactive visualization of the real estate analysis. Key components include:
@@ -44,6 +47,15 @@ A Power BI dashboard was created to provide an interactive visualization of the 
 
 The dashboard enhances data accessibility and offers dynamic insights for users to explore various dimensions of the real estate market.
 
+## Conclusion and Future Work
+
+This project provides a framework for understanding real estate market dynamics in Guatemala. Future work could involve refining the models and expanding the dataset to include additional features or geographic areas.
+
 ```bash
-pip install -r requirements.txt
+python -m venv venv
+source venv/bin/activate  # En Windows usa `venv\Scripts\activate```
+
+```bash
+pip install -r requirements.txt```
+
 
