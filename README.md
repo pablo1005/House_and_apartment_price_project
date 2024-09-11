@@ -53,9 +53,8 @@ This project provides a framework for understanding real estate market dynamics 
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # En Windows usa `venv\Scripts\activate```
+source venv/bin/activate  # En Windows usa `venv\Scripts\activate
 
-```bash
 pip install -r requirements.txt```
 
 
